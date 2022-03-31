@@ -1,8 +1,8 @@
 # React Ref 
 
-## useRef hook and forwardRef
+## useRef() & forwardRef()
 
-### useRef
+### useRef()
 Purposes: 
  1. For tracking the state value between render cycle without having to rerender the element  of element.
  2. For referring to the DOM element (similar to getElementbyId())
